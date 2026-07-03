@@ -1,0 +1,56 @@
+Project Setup:
+    ☐ setup initial project
+    ☐ review phaser boilerplate
+        ☐ phaser library
+        ☐ phaser game configuration
+        ☐ phaser scene
+    ☐ run project locally
+        ☐ vs code and live server extension
+        ☐ other options in readme
+        ☐ test in browser
+
+Sprites & Coordinates:
+    ☐ loading assets
+    ☐ create image game objects
+    ☐ game coordinates
+    ☐ game object origin
+    ☐ add background and player
+    ☐ scaling
+
+Player Movement:
+    ☐ Create player & player speed properties
+    ☐ Add keyboard input
+    ☐ Detect left/right keys
+    ☐ Move player in update()
+    ☐ Clamp player within screen bounds
+    ☐ Test smooth movement
+
+Falling Objects:
+    ☐ Spawn falling objects on a timer
+    ☐ Random spawn locations
+    ☐ Add downward movement
+    ☐ Remove objects when off screen
+    ☐ Explain why cleanup matters
+
+Collisions:
+    ☐ Get player and object bounds
+    ☐ Check rectangle overlap for collisions
+    ☐ Destroy object on collision and remove from array
+    ☐ Verify collisions visually
+
+UI & Score:
+    ☐ Create score variable
+    ☐ Add score text to screen
+    ☐ Increase score on catch
+    ☐ Update UI text when score changes
+    ☐ Position score on screen
+    ☐ Verify UI updates correctly
+
+Game Rules:
+    ☐ Create miss counter
+    ☐ Define max misses
+    ☐ Increase misses when objects fall
+    ☐ Check for game over
+    ☐ Stop gameplay when game over
+    ☐ Display game over message
+    ☐ Add restart scene logic
